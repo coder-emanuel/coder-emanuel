@@ -17,6 +17,7 @@ I enjoy creating web applications, improving code, and exploring new technologie
 
 <br/>
 <br/>
+<br/>
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
