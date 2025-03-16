@@ -38,7 +38,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://instagram.com/kavee_dineth" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="kavee_dineth" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="" height="50" width="50" /></a>
 <a><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
 
