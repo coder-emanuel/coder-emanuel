@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emanuel Estrada</h1>
 
-### About me🧑:
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+### About me:
+I am a Full Stack developer who loves programming and always wants to learn new things.<br/>
+I enjoy creating web applications, improving code, and exploring new technologies to get better.
+
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTI2czZ4dDJ4Z2xscnkxdml4Z203ZXFucnV6OG5pYWxrMnk2aWxuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5yOQJ3X3y0Xyd476S/giphy.gif" width="400" height="295" />
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning Backend Development.
@@ -12,9 +13,10 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 - 💬 Ask me about Frontend and Android Development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
-- 🎢 Profile Visitors Count:  
-![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
+- 📭 My mail is: emanu6a@gmail.com  
 
+<br/>
+<br/>
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
