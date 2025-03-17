@@ -4,7 +4,7 @@
 I am a Full Stack developer who loves programming and always wants to learn new things.<br/>
 I enjoy creating web applications, improving code, and exploring new technologies to get better.
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTI2czZ4dDJ4Z2xscnkxdml4Z203ZXFucnV6OG5pYWxrMnk2aWxuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5yOQJ3X3y0Xyd476S/giphy.gif" width="400" height="295" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTI2czZ4dDJ4Z2xscnkxdml4Z203ZXFucnV6OG5pYWxrMnk2aWxuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5yOQJ3X3y0Xyd476S/giphy.gif" width="400" height="280" />
 
 - 📚 I’m currently learning English.
 - 🔭 I’m currently learning Backend Development.
