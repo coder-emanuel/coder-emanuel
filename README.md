@@ -6,13 +6,13 @@ I enjoy creating web applications, improving code, and exploring new technologie
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTI2czZ4dDJ4Z2xscnkxdml4Z203ZXFucnV6OG5pYWxrMnk2aWxuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5yOQJ3X3y0Xyd476S/giphy.gif" width="400" height="295" />
 
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Android Development.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
+- 📚 I’m currently learning English.
+- 🔭 I’m currently learning Backend Development.
+- 💯 I'd like to meet good developers.
+- 💻 I love it the technology.
+- 🔝 I'm willing to improve my skills.
+- 🎧 I like listening to podcasts.
+- ⚡ My motto is: "Obsession beats talent".
 - 📭 My mail is: emanu6a@gmail.com  
 
 <br/>
